@@ -9,6 +9,13 @@ Update-Database
 
 ```
 {
+  "username": "admin",
+  "password": "123",
+  "role": "Admin"
+}
+```
+```
+{
   "name": "Điện thoại",
   "description": "Các sản phẩm điện thoại xách tay"
 }
